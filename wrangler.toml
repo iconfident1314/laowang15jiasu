@@ -1,0 +1,4 @@
+name = "laowang15"
+main = "_worker.js"
+type = "javascript"
+compatibility_date = "2026-03-14"
